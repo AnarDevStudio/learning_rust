@@ -1,3 +1,5 @@
-fn main() {
-    println!("Hello, world!");
+fn main() { // main funksiyasi proqramin giris noktesidir
+    println!("Hello, world!"); // Hello world yazisini ekrana cap edir 
 }
+
+// terminalda "cargo run" komandasini islederek bu proqrami islete bilersiniz

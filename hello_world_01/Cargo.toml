@@ -1,6 +1,7 @@
 [package]
-name = "hello_world_01"
-version = "0.1.0"
-edition = "2024"
+name = "hello_world_01" # proqramin adi
+version = "0.1.0" # proqramin versiyasi
+edition = "2024" # programin yazildigi Rust versiyasi
 
-[dependencies]
+[dependencies] # asagida proqramin istifade edeceyi kutuphaneler ve frameworklar qeyd olunur:
+empty = "0.0.4" # bos kutuphane, hec bir funksiyasi yoxdur
