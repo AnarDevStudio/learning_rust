@@ -25,7 +25,7 @@ fn main() {
     let massiv: [i32; 5] = [1, 2, 3, 4, 5]; // i32(tam say) tipinde 5 elementli massiv teyin edilir
     println!("Massivin ucuncu elementi: {}", massiv[2]); // massivin ucuncu elementi ekrana cap edilir cixdi: 3 not: massivlerin indeksleri 0-dan baslayir
 
-    let mut massiv2 = [i32; 2]; // i32(tam say) tipinde 2 elementli massiv teyin edilir
+    let mut massiv2 = [2]; // i32(tam say) tipinde 2 elementli massiv teyin edilir
     massiv2[0] = 10; // massiv2-nin birinci elementine 10 qiymeti verilir
     massiv2[1] = 20; // massiv2-nin ikinci elementine 20 qiymeti verilir
     println!("Massiv2-nin elementleri: {}, {}", massiv2[0], massiv2[1]); // massiv2-nin elementleri ekrana cap
