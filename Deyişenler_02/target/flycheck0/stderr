@@ -1,5 +1,5 @@
-   0.139065116s  INFO prepare_target{force=false package_id=Deyişenler_02 v0.1.0 (/home/anarlabs/Desktop/learning_rust/Deyişenler_02) target="Deyişenler_02"}: cargo::core::compiler::fingerprint: fingerprint error for Deyişenler_02 v0.1.0 (/home/anarlabs/Desktop/learning_rust/Deyişenler_02)/Check { test: false }/TargetInner { name: "Deyişenler_02", doc: true, ..: with_path("/home/anarlabs/Desktop/learning_rust/Deyişenler_02/src/main.rs", Edition2024) }
-   0.140679760s  INFO prepare_target{force=false package_id=Deyişenler_02 v0.1.0 (/home/anarlabs/Desktop/learning_rust/Deyişenler_02) target="Deyişenler_02"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/anarlabs/Desktop/learning_rust/Deyişenler_02/target/debug/.fingerprint/Deyişenler_02-09cb19021ebe7dad/bin-Deyişenler_02`
+   0.026905384s  INFO prepare_target{force=false package_id=Deyişenler_02 v0.1.0 (/home/anarlabs/Desktop/learning_rust/Deyişenler_02) target="Deyişenler_02"}: cargo::core::compiler::fingerprint: fingerprint error for Deyişenler_02 v0.1.0 (/home/anarlabs/Desktop/learning_rust/Deyişenler_02)/Check { test: false }/TargetInner { name: "Deyişenler_02", doc: true, ..: with_path("/home/anarlabs/Desktop/learning_rust/Deyişenler_02/src/main.rs", Edition2024) }
+   0.026960885s  INFO prepare_target{force=false package_id=Deyişenler_02 v0.1.0 (/home/anarlabs/Desktop/learning_rust/Deyişenler_02) target="Deyişenler_02"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/anarlabs/Desktop/learning_rust/Deyişenler_02/target/debug/.fingerprint/Deyişenler_02-09cb19021ebe7dad/bin-Deyişenler_02`
 
 Caused by:
     No such file or directory (os error 2)
@@ -43,8 +43,8 @@ Stack backtrace:
   25: __libc_start_main_impl
              at ./csu/../csu/libc-start.c:360:3
   26: <unknown>
-   0.710700237s  INFO prepare_target{force=false package_id=Deyişenler_02 v0.1.0 (/home/anarlabs/Desktop/learning_rust/Deyişenler_02) target="Deyişenler_02"}: cargo::core::compiler::fingerprint: fingerprint error for Deyişenler_02 v0.1.0 (/home/anarlabs/Desktop/learning_rust/Deyişenler_02)/Check { test: true }/TargetInner { name: "Deyişenler_02", doc: true, ..: with_path("/home/anarlabs/Desktop/learning_rust/Deyişenler_02/src/main.rs", Edition2024) }
-   0.710751992s  INFO prepare_target{force=false package_id=Deyişenler_02 v0.1.0 (/home/anarlabs/Desktop/learning_rust/Deyişenler_02) target="Deyişenler_02"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/anarlabs/Desktop/learning_rust/Deyişenler_02/target/debug/.fingerprint/Deyişenler_02-7508bd5b5ff20f93/test-bin-Deyişenler_02`
+   0.147826286s  INFO prepare_target{force=false package_id=Deyişenler_02 v0.1.0 (/home/anarlabs/Desktop/learning_rust/Deyişenler_02) target="Deyişenler_02"}: cargo::core::compiler::fingerprint: fingerprint error for Deyişenler_02 v0.1.0 (/home/anarlabs/Desktop/learning_rust/Deyişenler_02)/Check { test: true }/TargetInner { name: "Deyişenler_02", doc: true, ..: with_path("/home/anarlabs/Desktop/learning_rust/Deyişenler_02/src/main.rs", Edition2024) }
+   0.147854723s  INFO prepare_target{force=false package_id=Deyişenler_02 v0.1.0 (/home/anarlabs/Desktop/learning_rust/Deyişenler_02) target="Deyişenler_02"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/anarlabs/Desktop/learning_rust/Deyişenler_02/target/debug/.fingerprint/Deyişenler_02-7508bd5b5ff20f93/test-bin-Deyişenler_02`
 
 Caused by:
     No such file or directory (os error 2)
